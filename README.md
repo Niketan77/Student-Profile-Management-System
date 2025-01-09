@@ -1,4 +1,3 @@
-```markdown
 # Student Profile Management System
 
 A robust web-based application designed to manage student profiles. Below you will find comprehensive setup instructions, feature overviews, notable development challenges, and recommended enhancements.
@@ -15,6 +14,8 @@ A robust web-based application designed to manage student profiles. Below you wi
    If a package.json file is present (for a Node.js-based setup):
    ```bash
    cd Student-Profile-Management-System
+   ```
+   ```bash
    npm install
    ```
 
