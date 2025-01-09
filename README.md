@@ -68,4 +68,3 @@ A robust web-based application designed to manage student profiles. Below you wi
 ---
 
 Feel free to open issues or submit pull requests if you have suggestions or encounter any problems.
-```
